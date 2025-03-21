@@ -1,1 +1,46 @@
-{"dados": {"id": 2, "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/2", "nomeCivil": "Caetano Maria Lopes Gama", "ultimoStatus": {"id": 2, "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/2", "nome": "LOPES GAMA", "siglaPartido": null, "uriPartido": null, "siglaUf": "GO", "idLegislatura": 2, "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/2.jpg", "email": null, "data": null, "nomeEleitoral": "LOPES GAMA", "gabinete": {"nome": null, "predio": null, "sala": null, "andar": null, "telefone": null, "email": null}, "situacao": "Vacância", "condicaoEleitoral": null, "descricaoStatus": null}, "cpf": null, "sexo": "M", "urlWebsite": null, "redeSocial": [], "dataNascimento": "1795-08-05", "dataFalecimento": null, "ufNascimento": "PE", "municipioNascimento": "Recife", "escolaridade": "Superior"}, "links": [{"rel": "self", "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/2"}]}
+{
+    "dados": {
+        "id": 2,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/2",
+        "nomeCivil": "Caetano Maria Lopes Gama",
+        "ultimoStatus": {
+            "id": 2,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/2",
+            "nome": "LOPES GAMA",
+            "siglaPartido": null,
+            "uriPartido": null,
+            "siglaUf": "GO",
+            "idLegislatura": 2,
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/2.jpg",
+            "email": null,
+            "data": null,
+            "nomeEleitoral": "LOPES GAMA",
+            "gabinete": {
+                "nome": null,
+                "predio": null,
+                "sala": null,
+                "andar": null,
+                "telefone": null,
+                "email": null
+            },
+            "situacao": "Vacância",
+            "condicaoEleitoral": null,
+            "descricaoStatus": null
+        },
+        "cpf": null,
+        "sexo": "M",
+        "urlWebsite": null,
+        "redeSocial": [],
+        "dataNascimento": "1795-08-05",
+        "dataFalecimento": null,
+        "ufNascimento": "PE",
+        "municipioNascimento": "Recife",
+        "escolaridade": "Superior"
+    },
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/2"
+        }
+    ]
+}

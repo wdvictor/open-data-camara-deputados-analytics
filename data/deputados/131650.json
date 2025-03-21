@@ -1,1 +1,46 @@
-{"dados": {"id": 131650, "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/131650", "nomeCivil": "Antonio Geraldo de Azevedo Guedes", "ultimoStatus": {"id": 131650, "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/131650", "nome": "GERALDO GUEDES", "siglaPartido": "PDS", "uriPartido": null, "siglaUf": "PE", "idLegislatura": 46, "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/131650.jpg", "email": null, "data": null, "nomeEleitoral": "GERALDO GUEDES", "gabinete": {"nome": null, "predio": null, "sala": null, "andar": null, "telefone": null, "email": null}, "situacao": "Vacância", "condicaoEleitoral": "Titular", "descricaoStatus": null}, "cpf": "00013820125", "sexo": "M", "urlWebsite": null, "redeSocial": [], "dataNascimento": "1919-08-01", "dataFalecimento": null, "ufNascimento": "PE", "municipioNascimento": "Caruaru", "escolaridade": null}, "links": [{"rel": "self", "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/131650"}]}
+{
+    "dados": {
+        "id": 131650,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/131650",
+        "nomeCivil": "Antonio Geraldo de Azevedo Guedes",
+        "ultimoStatus": {
+            "id": 131650,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/131650",
+            "nome": "GERALDO GUEDES",
+            "siglaPartido": "PDS",
+            "uriPartido": null,
+            "siglaUf": "PE",
+            "idLegislatura": 46,
+            "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/131650.jpg",
+            "email": null,
+            "data": null,
+            "nomeEleitoral": "GERALDO GUEDES",
+            "gabinete": {
+                "nome": null,
+                "predio": null,
+                "sala": null,
+                "andar": null,
+                "telefone": null,
+                "email": null
+            },
+            "situacao": "Vacância",
+            "condicaoEleitoral": "Titular",
+            "descricaoStatus": null
+        },
+        "cpf": "00013820125",
+        "sexo": "M",
+        "urlWebsite": null,
+        "redeSocial": [],
+        "dataNascimento": "1919-08-01",
+        "dataFalecimento": null,
+        "ufNascimento": "PE",
+        "municipioNascimento": "Caruaru",
+        "escolaridade": null
+    },
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/131650"
+        }
+    ]
+}
